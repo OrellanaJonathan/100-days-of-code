@@ -7,7 +7,7 @@
 
 **Thoughts:** Not fully understanding it but not giving up, need to keep working on it.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** N/A
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
