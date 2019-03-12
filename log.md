@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 1: March 12, 2019 (Example 1)
-<--!##### (delete me or comment me out)
+<!--##### (delete me or comment me out)-->
 
 **Today's Progress**: Learning to use GitHub
 
