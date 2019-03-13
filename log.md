@@ -3,20 +3,19 @@
 ### Day 1: March 12, 2019
 <!--##### (delete me or comment me out)-->
 
-**Today's Progress**: Learning to use GitHub
+**Today's Progress**: Learning to use GitHub and how to code with HTML and CSS
 
 **Thoughts:** Not fully understanding it but not giving up, need to keep working on it.
 
-**Link to work:** N/A
+**Link to work:** freecodecamp.org
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: March 13, 2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learning the Basic of CSS
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Currently not having issues using CSS, but I believe the challange could be in remembering all of the different Styles. Practice makes perfect!
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: freecodecamp.org
 
 
 ### Day 1: June 27, Monday
