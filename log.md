@@ -26,3 +26,18 @@
 
 **Link(s) to work**
 1. Completed Basic CSS
+
+### Day 4 - 7
+
+**Progress**: I was going through the FreeCodeCamp chanllenges. I was stuck in building the first website challenge.
+
+**Thoughts**: I went back to Pluralsight to continue learning HTML and CSS
+
+### Day 8: March 22, 2019
+
+**Today's Progress**: Doing the Pluralsight excercises.
+
+**Thoughts** Feeling more confortable with GIT and I am able to switch from different repositories.
+
+**Link(s) to work**
+1. https://github.com/OrellanaJonathan
